@@ -1,6 +1,6 @@
 # RGB-LED
-
 Eine RGB-LED ansteuern
+
 Aufgabe: Eine RGB LED soll in verschiedenen Farben leuchten.
 
 Material: Arduino / eine RGB-LED / 3x Widerstand mit 200 Ohm / Breadboard / Kabel
