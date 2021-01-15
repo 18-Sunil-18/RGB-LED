@@ -14,3 +14,6 @@ Version b) „Common anode“ – Das längste Beinchen der LED ist „+“ und 
 Durch eine Mischung der Farben können noch sehr viele weitere Farben erzeugt werden. Zum Beispiel entsteht durch die Ansteuerung der Farben „Blau“ und „Grün“ die Farbe „Türkis“.
 
 Welche Version man selber hat, findet man durch einfaches umstecken von „+“ und „-“ an der LED heraus (Info: Eine LED leuchtet nur bei richtigem Anschluss).
+
+
+Weitere Infos unter: https://funduino.de/
